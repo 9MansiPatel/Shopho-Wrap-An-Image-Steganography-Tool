@@ -1,0 +1,39 @@
+c:\users\dharupal\documents\visual studio 2012\Projects\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.exe.config
+c:\users\dharupal\documents\visual studio 2012\Projects\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.exe
+c:\users\dharupal\documents\visual studio 2012\Projects\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.pdb
+c:\users\dharupal\documents\visual studio 2012\Projects\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.csprojResolveAssemblyReference.cache
+c:\users\dharupal\documents\visual studio 2012\Projects\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.Form1.resources
+c:\users\dharupal\documents\visual studio 2012\Projects\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.Properties.Resources.resources
+c:\users\dharupal\documents\visual studio 2012\Projects\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.csproj.GenerateResource.Cache
+c:\users\dharupal\documents\visual studio 2012\Projects\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.exe
+c:\users\dharupal\documents\visual studio 2012\Projects\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.pdb
+J:\New folder\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.exe.config
+J:\New folder\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.exe
+J:\New folder\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.pdb
+J:\New folder\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.csprojResolveAssemblyReference.cache
+J:\New folder\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.Form1.resources
+J:\New folder\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.Properties.Resources.resources
+J:\New folder\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.csproj.GenerateResource.Cache
+J:\New folder\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.exe
+J:\New folder\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.pdb
+H:\New folder\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.exe.config
+H:\New folder\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.exe
+H:\New folder\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.pdb
+I:\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.exe.config
+I:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.exe
+I:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.pdb
+I:\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.exe
+I:\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.pdb
+I:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.csprojResolveAssemblyReference.cache
+I:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.Form1.resources
+I:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.Properties.Resources.resources
+I:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.csproj.GenerateResource.Cache
+H:\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.exe.config
+H:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.exe
+H:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.pdb
+H:\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.exe
+H:\IMG_STEGO\IMG_STEGO\bin\Debug\IMG_STEGO.pdb
+H:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.csprojResolveAssemblyReference.cache
+H:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.Form1.resources
+H:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.Properties.Resources.resources
+H:\IMG_STEGO\IMG_STEGO\obj\Debug\IMG_STEGO.csproj.GenerateResource.Cache
